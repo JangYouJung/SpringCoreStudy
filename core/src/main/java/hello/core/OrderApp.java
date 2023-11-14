@@ -9,7 +9,7 @@ import hello.core.member.*;
 public class OrderApp {
     public static void main(String[] args) {
         AppConfig appConfig = new AppConfig();
-        MemberService memberService = appConfig.memberServiec();
+        MemberService memberService = appConfig.memberService();
         OrderService orderService = appConfig.orderService();
 
         Long memberId = 1L;
