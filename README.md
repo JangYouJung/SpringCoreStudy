@@ -4,10 +4,10 @@
 
 | 섹션 | 주제 | 수강 현황|
 |---|--------------|---|
-| 1 | 객체 지향 설계와 스프링 | 완료✅ |
-| 2 | 스프링 핵심 원리 이해1 - 예제 만들기 | 완료✅ |
-| 3 | 스프링 핵심 원리 이해2 - 객체 지향 원리 적용| 완료✅ |
-| 4 | 스프링 컨테이너와 스프링 빈 ||
+| 1 | [객체 지향 설계와 스프링](https://yuejeong.tistory.com/28) | 완료✅ | 
+| 2 | [스프링 핵심 원리 이해1 - 예제 만들기](https://yuejeong.tistory.com/29) | 완료✅ |
+| 3 | [스프링 핵심 원리 이해2 - 객체 지향 원리 적용](https://yuejeong.tistory.com/32)| 완료✅ |
+| 4 | [스프링 컨테이너와 스프링 빈](https://yuejeong.tistory.com/41) | 완료✅ |
 | 5 | 싱글톤 컨테이너 ||
 | 6 | 컴포넌트 스캔 ||
 | 7 | 의존 관계 자동 주입 ||
@@ -15,7 +15,4 @@
 | 9 | 빈 스코프 ||
 | 10 | 다음으로 ||
 
-[강의 내용 기록은 여기📒](https://yuejeong.tistory.com/category/Study/SpringBoot)
--------------------
-
-🐣
+### [🔗스터디 블로그📒](https://yuejeong.tistory.com/category/Study/SpringBoot)
