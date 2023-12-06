@@ -28,7 +28,7 @@ public class ComponentFilterAppConfigTest {
         *
         */
     }
-    
+
 
     @Configuration
     @ComponentScan(
