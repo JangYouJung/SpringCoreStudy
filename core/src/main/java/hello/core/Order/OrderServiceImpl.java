@@ -19,9 +19,9 @@ public class OrderServiceImpl implements OrderService{
     //테스트용
     private final MemberRepository memberRepository;
     private final DiscountPolicy discountPolicy;
-    
+
     @Autowired
-    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy rateDiscountPolicy) {
+    public OrderServiceImpl(MemberRepository memberRepository,@Qualifier("mainDiscountPolicy") DiscountPolicy rateDiscountPolicy) {
         this.memberRepository = memberRepository;
         this.discountPolicy = rateDiscountPolicy;
     }
