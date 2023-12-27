@@ -12,8 +12,9 @@
 | 5 | [싱글톤 컨테이너](https://yuejeong.tistory.com/44) | 완료✅ |
 | 6 | [컴포넌트 스캔](https://yuejeong.tistory.com/50) | 완료✅ |
 | 7-1 | [의존 관계 자동 주입 1](https://yuejeong.tistory.com/51) | 완료✅ |
-| 7-2 | 의존 관계 자동 주입 2 ||
+| 7-2 | [의존 관계 자동 주입 2](https://yuejeong.tistory.com/59) | 완료✅ |
 | 8 | 빈 생명주기 콜백 ||
-| 9 | 빈 스코프 ||
+| 9-1 | 빈 스코프1 ||
+| 9-2 | 빈 스코프2 ||
 | 10 | 다음으로 ||
 
