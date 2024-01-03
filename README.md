@@ -14,7 +14,7 @@
 | 7-1 | [의존 관계 자동 주입 1](https://yuejeong.tistory.com/51) | 완료✅ |
 | 7-2 | [의존 관계 자동 주입 2](https://yuejeong.tistory.com/59) | 완료✅ |
 | 8 | [빈 생명주기 콜백](https://yuejeong.tistory.com/m/60) |완료✅|
-| 9-1 | [빈 스코프1]( ) |완료✅|
+| 9-1 | [빈 스코프1](https://yuejeong.tistory.com/m/61) |완료✅|
 | 9-2 | 빈 스코프2 ||
 | 10 | 다음으로 ||
 
