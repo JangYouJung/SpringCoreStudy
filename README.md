@@ -3,7 +3,9 @@
 -----------------
 ### [🔗스터디 블로그📒](https://yuejeong.tistory.com/category/Study/SpringBoot)
 
-| 섹션 | 주제 | 수강 현황|
+### 🖋️스터디 진도율
+
+| 섹션 | 주제 | 수강 현황 |
 |:-------:|--------------|:---:|
 | 1 | [객체 지향 설계와 스프링](https://yuejeong.tistory.com/28) | 완료✅ | 
 | 2 | [스프링 핵심 원리 이해1 - 예제 만들기](https://yuejeong.tistory.com/29) | 완료✅ |
