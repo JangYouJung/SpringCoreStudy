@@ -1,7 +1,9 @@
 # 🌱SpringCoreStudy
 [인프런 스프링부트 핵심 원리 강의 🧑‍🏫](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 -----------------
-### [🔗스터디 블로그📒](https://yuejeong.tistory.com/category/Study/SpringBoot)
+### 📒스터디 블로그 바로가기
+[🔗개발 공부 기록 / Springboot✏️](https://yuejeong.tistory.com/category/Study/SpringBoot)
+<br></br>
 
 ### 🖋️스터디 진도율
 
