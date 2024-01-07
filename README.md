@@ -16,7 +16,7 @@
 | 5 | [싱글톤 컨테이너](https://yuejeong.tistory.com/44) | 23-11-28 | 완료✅ |
 | 6 | [컴포넌트 스캔](https://yuejeong.tistory.com/50) | 23-12-05 | 완료✅ |
 | 7-1 | [의존 관계 자동 주입 1](https://yuejeong.tistory.com/51) | 23-12-26 | 완료✅ |
-| 7-2 | [의존 관계 자동 주입 2](https://yuejeong.tistory.com/59) || 완료✅ |
+| 7-2 | [의존 관계 자동 주입 2](https://yuejeong.tistory.com/59) | 24-01-02 | 완료✅ |
 | 8 | [빈 생명주기 콜백](https://yuejeong.tistory.com/m/60) || 완료✅|
 | 9-1 | [빈 스코프1](https://yuejeong.tistory.com/m/61) || 완료✅|
 | 9-2 | 빈 스코프2 ||
